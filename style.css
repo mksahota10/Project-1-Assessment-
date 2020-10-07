@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+    display: flex;  /* defaults to row layout */
+ 	justify-content: center;  /* centers items horizontally in row layout */
+     align-items: center; 
+     margin: 300px
+}
+button{
+    background-color: rgb(143, 142, 142);
+    border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px
+}
+
+#demoInput{
+    background-color: white;
+    border: 3px solid gray;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px
+  
+  
+
+}
+
+
+
+
+
